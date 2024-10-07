@@ -1,5 +1,5 @@
 {
-    "name": "microsoft/azure-storage",
+    "name": "sorgaspzoo/azure-storage-php",
     "description": "This project provides a set of PHP client libraries that make it easy to access Microsoft Azure storage APIs.",
     "keywords": [ "php", "azure", "storage", "sdk" ],
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Azure Storage PHP Client Library",
             "email": "dmsh@microsoft.com"
+        },
+        {
+            "name": "Cezary Jackiewicz",
+            "email": "cjackiewicz@sorga.pl"
         }
     ],
     "require": {
